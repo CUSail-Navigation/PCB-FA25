@@ -199,7 +199,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "473cb745-f0ee-473d-8168-e99d31faddf7")
-		(property "Reference" "D"
+		(property "Reference" "D?"
 			(at 173.6725 82.55 0)
 			(effects
 				(font
@@ -261,6 +261,10 @@
 			(project "TestProj"
 				(path "/c118cc56-38ad-4e47-aa36-07d1c7ff5ecd/06fc1130-1390-446a-9ca8-6d68501251f2"
 					(reference "D3")
+					(unit 1)
+				)
+				(path "/c118cc56-38ad-4e47-aa36-07d1c7ff5ecd/6f91e8cb-c44e-4208-b78f-fc922fa94200"
+					(reference "D?")
 					(unit 1)
 				)
 			)

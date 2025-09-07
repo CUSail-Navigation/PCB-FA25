@@ -954,6 +954,90 @@
 		)
 	)
 	(sheet
+		(at 43.18 36.83)
+		(size 48.26 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "556574ca-dafc-4b2e-8028-a5b61e71f983")
+		(property "Sheetname" "jonah"
+			(at 43.18 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "jonah.kicad_sch"
+			(at 43.18 59.0046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TestProj"
+				(path "/c118cc56-38ad-4e47-aa36-07d1c7ff5ecd"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 203.2 115.57)
+		(size 45.72 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "580ed9c7-7026-4a34-9f28-12310795b7a8")
+		(property "Sheetname" "Liya"
+			(at 203.2 114.8584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "liya.kicad_sch"
+			(at 203.2 141.5546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TestProj"
+				(path "/c118cc56-38ad-4e47-aa36-07d1c7ff5ecd"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 114.3 49.53)
 		(size 31.75 17.78)
 		(exclude_from_sim no)
@@ -996,6 +1080,48 @@
 		)
 	)
 	(sheet
+		(at 66.04 139.7)
+		(size 49.53 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "853834e3-e2de-4be0-9710-5cc1cc660eb3")
+		(property "Sheetname" "Wang"
+			(at 66.04 138.9884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "wang.kicad_sch"
+			(at 66.04 170.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TestProj"
+				(path "/c118cc56-38ad-4e47-aa36-07d1c7ff5ecd"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 110.49 97.79)
 		(size 41.91 17.78)
 		(exclude_from_sim no)
@@ -1033,6 +1159,48 @@
 			(project "TestProj"
 				(path "/c118cc56-38ad-4e47-aa36-07d1c7ff5ecd"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 215.9 67.31)
+		(size 41.91 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "db3e8359-eba1-4c6f-a549-91ce15927f8c")
+		(property "Sheetname" "linnea"
+			(at 215.9 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "linnea.kicad_sch"
+			(at 215.9 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TestProj"
+				(path "/c118cc56-38ad-4e47-aa36-07d1c7ff5ecd"
+					(page "8")
 				)
 			)
 		)
