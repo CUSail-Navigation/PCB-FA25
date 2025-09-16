@@ -40,4 +40,4 @@ fp-info-cache
 *.kicad_prl
 
 # Other stuff
-.DS_Store
+**/.DS_Store
