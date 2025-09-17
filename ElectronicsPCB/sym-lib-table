@@ -2,4 +2,7 @@
   (version 7)
   (lib (name "4-PinConnector")(type "KiCad")(uri "${KIPRJMOD}/Components/4-Pin Connector/2025-09-13_16-31-34.kicad_sym")(options "")(descr ""))
   (lib (name "Teensy")(type "KiCad")(uri "${KIPRJMOD}/Components/Teensy/DEV-15583.kicad_sym")(options "")(descr ""))
+  (lib (name "2-PinConnector")(type "KiCad")(uri "${KIPRJMOD}/Components/2-Pin Connector/B2B-XH-A.kicad_sym")(options "")(descr ""))
+  (lib (name "3-PinConnector")(type "KiCad")(uri "${KIPRJMOD}/Components/3-Pin Connector/B3B-XH-A.kicad_sym")(options "")(descr ""))
+  (lib (name "TeensyConnector")(type "KiCad")(uri "${KIPRJMOD}/Components/TeensyPassthrough/M20-7832046.kicad_sym")(options "")(descr ""))
 )
